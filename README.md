@@ -1,24 +1,22 @@
-# README
+# Friend List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, my name is Nhat Khoa Nguyen.
 
-Things you may want to cover:
+This is my Ruby on Rails Friends list app.
 
-* Ruby version
 
-* System dependencies
+Submitted by: Nguyen Nhat Khoa install bootstrap in rails 6 build Friends List App:
 
-* Configuration
+    - You can add an new friend with many information: Name, Email, Phone number and Twitter.
+    
+    - You can see the table with infomation of Friends
+    
+    - You can show, edit and delelt an or many your friend's infomation.
 
-* Database creation
+    ...
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
